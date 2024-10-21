@@ -34,4 +34,4 @@ namespace Voorbeeld
             InfoTextBlock.Text = "";
         }
     }
-}
+} 
